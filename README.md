@@ -8,7 +8,7 @@ I just need my hobbies is useful from me and to other people, and It's can make 
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [yesayasentosa@gmail.com](mailto:yesayasentosa@gmail.com)
-*   🧠  I'm learning Pyrhon### Skills<p align="left">
+*   🧠  I'm learning Python### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
